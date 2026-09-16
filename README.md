@@ -8,7 +8,8 @@ Dataset: 20,491 hotel reviews
 Word2Vec word embeddings
 Bidirectional LSTM architecture
 Accuracy: 62.35%
-Macro F1-score: 53.43%
+Macro F1-score: 53.80%
+
 Technologies
 
 Python · TensorFlow · Keras ·  Scikit-learn ·  Deep Learning
