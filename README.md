@@ -1,4 +1,4 @@
-Hotel Review Rating Prediction Using Deep Learning
+#Hotel Review Rating Prediction
 
 A deep learning project that predicts hotel review ratings from textual reviews using Word2Vec embeddings, and a Bidirectional LSTM neural network.
 
